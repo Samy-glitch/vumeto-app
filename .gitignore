@@ -91,4 +91,6 @@ typings/
 # Electron-Forge
 out/
 
-src/
+apps/
+
+dist/
